@@ -24,3 +24,7 @@ body {
     font-size: 21px;
     color: gray;
 }
+.copyright {
+    text-align: right;
+    color: gray;
+}
